@@ -1,5 +1,5 @@
 length = 10
 width = 5
-Area = length*width
+area = length * width
 
-print("The aread of the rectangle is:",Area)
+print("The aread of the rectangle is:",area)
